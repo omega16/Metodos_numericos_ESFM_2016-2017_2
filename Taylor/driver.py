@@ -7,8 +7,8 @@ import sympy
 
 """
 
-Programa echo por : Luis Alberto Díaz Díaz
-Boleta : 2014330326
+Programa echo por : nombre omitido en la version publica de git, favor de solicitarlo 
+Boleta : Omitida en la version publica de git
 Programa creado para la clase métodos numéricos impartida en la ESFM-IPN periodo 2016-2017 2 , miercoles 8 de febrero de 2017
 Proposito:
 
