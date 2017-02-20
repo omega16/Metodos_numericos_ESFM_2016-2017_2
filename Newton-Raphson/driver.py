@@ -5,8 +5,8 @@ import Newton as nt
 
 """
 
-Programa echo por : Luis Alberto Díaz Díaz
-Boleta : 2014330326
+Programa echo por : Omega16
+Boleta : censurado 
 Programa creado para la clase métodos numéricos impartida en la ESFM-IPN periodo 2016-2017 2 , Domingo 19 de febrero de 2017
 Proposito:
 
